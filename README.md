@@ -86,10 +86,3 @@ This repository demonstrates a complete application monitoring setup on Kubernet
 ## 🤝 Contributions
 
 Contributions and improvements are welcome. Feel free to raise issues or submit pull requests.
-
----
-
-## 📬 Contact
-
-For queries or collaboration:  
-📧 senthilkumarrajan1209@gmail.com
